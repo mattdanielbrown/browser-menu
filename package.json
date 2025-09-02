@@ -7,7 +7,7 @@
   "dependencies": {
     "remove-element": "0.0.0",
     "vkey": "0.0.3",
-    "insert-css": "^0.1.1",
+    "insert-css": "^0.2.0",
     "events": "^1.0.0",
     "xtend": "^2.1.2",
     "terminal-menu": "^0.2.0",
