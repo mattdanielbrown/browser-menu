@@ -8,7 +8,7 @@
     "remove-element": "0.0.0",
     "vkey": "0.0.3",
     "insert-css": "^0.1.1",
-    "events": "^1.0.0",
+    "events": "^3.3.0",
     "xtend": "^2.1.2",
     "terminal-menu": "^0.2.0",
     "brfs": "^1.0.0"
