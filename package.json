@@ -11,7 +11,7 @@
     "events": "^1.0.0",
     "xtend": "^2.1.2",
     "terminal-menu": "^0.2.0",
-    "brfs": "^1.0.0"
+    "brfs": "^2.0.2"
   },
   "devDependencies": {
     "browserify": "^3.32.0",
