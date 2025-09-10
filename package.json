@@ -6,7 +6,7 @@
   "browser": "browser.js",
   "dependencies": {
     "remove-element": "0.0.0",
-    "vkey": "0.0.3",
+    "vkey": "1.0.1",
     "insert-css": "^0.1.1",
     "events": "^1.0.0",
     "xtend": "^2.1.2",
